@@ -10,3 +10,10 @@ type NavItems = {
   description: string[],
   href: string
   }
+
+  type Victory = {
+      status:string,
+      entity:string,
+      description:string,
+      href:string,
+  }
