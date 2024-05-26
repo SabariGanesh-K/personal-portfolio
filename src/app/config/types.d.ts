@@ -17,3 +17,20 @@ type NavItems = {
       description:string,
       href:string,
   }
+
+  type SkillSet = {
+    genre:string,
+    stack:string;
+  }
+
+  type Project = {
+    title:string,
+    stack:string,
+    description:string[],
+    links:Link[]
+
+  }
+  type Link = {
+    src :string,
+    text:string
+  }

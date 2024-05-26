@@ -4,6 +4,8 @@ import Downloadables from "@/components/downloadables/Downloadables";
 import ProfileDescription from "@/modules/description/ProfileDescription";
 import EpicHighlights from "@/modules/highlights/highlights";
 import ProfileCard from "@/modules/profile/ProfileCard";
+import ProjectsCatalogue from "@/modules/projects/ProjectsCatalogue";
+import Skills from "@/modules/projects/SkillsAndProjects/Skills";
 import Testimonial from "@/modules/testomonial.tsx/Testimonial";
 import CareerProgress from "@/modules/timeline/careerProgress";
 import EpicVictories from "@/modules/victories/EpicVictories";
@@ -48,6 +50,9 @@ export default function Home() {
       <EpicVictories/>
       <br/><br/><br/>
       <CommunityBuildCarousel/>
+      <br/><br/><br/> <br/><br/><br/>
+      
+      <ProjectsCatalogue/>
     </main>
   );
 }
