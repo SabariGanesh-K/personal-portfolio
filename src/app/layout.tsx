@@ -7,8 +7,8 @@ import { NextUIProvider } from "@nextui-org/react";
 const karla = Karla({ subsets: ["latin"], variable: "--font-karla" });
 
 export const metadata: Metadata = {
-  title: "Custom Cursor",
-  description: "",
+  title: "Sabari Krishna ♦️♠️",
+  description: "Sabari Ganesh K A Dedicated Full Stack Software Developer Specializing in Cloud , Devops and Blockchains.",
 };
 
 export default function RootLayout({
