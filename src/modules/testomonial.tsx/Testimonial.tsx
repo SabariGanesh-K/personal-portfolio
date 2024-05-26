@@ -17,13 +17,13 @@ const Testimonial = () => {
         </svg>
         <blockquote>
           <p className="text-2xl italic font-medium text-gray-900 dark:text-white">
-            " Amidst the rush of curious minds and exciting stories, we are
+            &ldquo; Amidst the rush of curious minds and exciting stories, we are
             excited to share the story of Sabari Ganesh, a newbie Web3 developer
             who has been at the forefront of Web3 development and is a student
             at VIT Chennai. Sabari takes us on his Web3 journey that began with
             research on Dogecoin and cryptocurrencies to learn all about
             blockchain. His interest intensified with a desire to mint an NFT to
-            impress his crush. This led to Sabari creating....."
+            impress his crush. This led to Sabari creating.....&ldquo;
           </p>
         </blockquote>
         <figcaption className="flex items-center justify-center mt-6 space-x-3 rtl:space-x-reverse">

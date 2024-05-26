@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import {Card, CardBody, Image, Button, Slider} from "@nextui-org/react";
-import {HeartIcon} from "./assets/HeartIcon";
+import {HeartIcon} from "./assets/HeartIcon.jsx";
 import {PauseCircleIcon} from "./assets/PauseCircleIcon";
 import {NextIcon} from "./assets/NextIcon";
 import {PreviousIcon} from "./assets/PreviousIcon";

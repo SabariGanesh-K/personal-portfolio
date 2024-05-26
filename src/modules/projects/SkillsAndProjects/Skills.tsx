@@ -15,7 +15,7 @@ const Skills = () => {
 <br/><br/>
       {skillSets.map((item: SkillSet, k: number) => {
         return (
-          <div className="flex flex-col pb-3">
+          <div key={k} className="flex flex-col pb-3">
             <dt className="mb-1 text-blue-600 dark:text-blue-500 md:text-lg ">
               {" "}
               {item.genre}{" "}

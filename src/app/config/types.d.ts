@@ -34,3 +34,5 @@ type NavItems = {
     src :string,
     text:string
   }
+
+  type StrArray=string[];

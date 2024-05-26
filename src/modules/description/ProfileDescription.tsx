@@ -21,21 +21,19 @@ const ProfileDescription = () => {
           <span className="text-blue-600 dark:text-blue-500">
             tech developer
           </span>{" "}
-          and a enthusiast , a versatile individual with a knack for networking,
-          community building, and event organization. I've had the privilege of
-          sharing my insights at various events and workshops as a speaker &
-          host, collaborating with industry giants like Polygon Labs and Lumos
-          Labs.
+          {
+            "  and a enthusiast , a versatile individual with a knack for networking,  community building, and event organization. I've had the privilege of  sharing my insights at various events and workshops as a speaker &  host, collaborating with industry giants like Polygon Labs and Lumos  Labs."
+          }
         </p>
         <br />
         <p className="text-lg">
-          In the dynamic world of startups, I've not only expressed my love for
+          In the dynamic world of startups, I&lsquo;ve not only expressed my love for
           innovation but actively contributed to building some remarkable
           ventures while working alongside visionary founders. My freelancing
           experience has further honed my skills and provided a diverse range of
           challenges.
         </p>
-        <br/>
+        <br />
         <p className="text-lg">
           Beyond my technical prowess, I pride myself on being a strong-minded
           individual, capable of getting the job done efficiently. I thrive in

@@ -21,6 +21,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/modules/profile/assets/ShuffleIcon.jsx", "src/modules/profile/assets/RepeatOneIcon.jsx", "src/modules/profile/assets/PreviousIcon.jsx", "src/modules/profile/assets/PauseCircleIcon.jsx", "src/modules/profile/assets/NextIcon.tsx", "src/modules/profile/assets/HeartIcon.jsx", "src/modules/profile/MusicAlbumTemplate.jsx"],
   "exclude": ["node_modules"]
 }

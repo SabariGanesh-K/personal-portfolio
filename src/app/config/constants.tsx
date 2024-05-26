@@ -213,8 +213,7 @@ export const PROJECTSLIST: Project[] = [
   },
   {
     title: "Decentralized Dispute handler with VRF",
-    stack:
-      "Chainlink , VRFs , Solidity , Hardhat , Javascript ",
+    stack: "Chainlink , VRFs , Solidity , Hardhat , Javascript ",
     description: [
       "A decentralized solutions for disputes that arises within communities , especially DAOs. This solution uses the technology of VRF v2 . ",
       "EVM based Chainlink consumer integrated with dispute handler equipped with 51% attack prevention ",
@@ -229,8 +228,7 @@ export const PROJECTSLIST: Project[] = [
   },
   {
     title: "Event Management Portal",
-    stack:
-      "ReactJS, Firebase firestore DB, Auth,TailwindCSS ",
+    stack: "ReactJS, Firebase firestore DB, Auth,TailwindCSS ",
     description: [
       "Created a platform for club events during our University cultural fest to facilitate registration , verification , onboarding and game slot maintainence in realtime .",
       "Handles many users with auth facilities. ",
@@ -243,15 +241,16 @@ export const PROJECTSLIST: Project[] = [
     ],
   },
   {
-    title: "Pay4All-Revolutionizing grassroots payments:Transparent, and empowering for workers and communities",
+    title:
+      "Pay4All-Revolutionizing grassroots payments:Transparent, and empowering for workers and communities",
     stack:
       "ReactJS ,Firebase Firestore,Polygon blockchain,Solidity smart contracts,Hardhat,EthersJS, Tailwindcss,styled components ",
     description: [
       "A 'Decentralized Payment Platform' for Fair and Transparent Compensation of Municipal and Sanitation Workers, Promoting Financial Responsibility and Blockchain Adoption at the Grassroots Level. ",
       "The moral goal is to prevent small amounts of money being spent on harmful and largely unimportant goods on daily basis ; instead offer the aggregated payment/ tip money at a later time as a lumpsum ; ",
       "The technical goal is create a seamless platform that is transparent in displaying where the money flows by keeping a central aggregator and the user need only pay the unique wallet address corresponding to the worker.",
-      " Along with it , it also aims to bring the blockchain use case to the grassroot level. "
-      ,"This was a Hackathon winning project"
+      " Along with it , it also aims to bring the blockchain use case to the grassroot level. ",
+      "This was a Hackathon winning project",
     ],
     links: [
       {
@@ -270,7 +269,6 @@ export const PROJECTSLIST: Project[] = [
         src: "https://docs.google.com/presentation/d/1r0vLOzjY1dSu_ISG1dfZX1mQOxsdAf-L9fZJDW9rc5c/edit#slide=id.g1f35dd3024b_6_20",
         text: "Presentation Deck",
       },
-
     ],
   },
   {
@@ -280,7 +278,7 @@ export const PROJECTSLIST: Project[] = [
     description: [
       "Built a unique marketplace for music artist which enables fans to own a piece of their music as a NFT.",
       "Project got accepted at Buildspace Nights & Weekends season 3 . We graduated as well ",
-      "Coded along with my teammates ,where I had the key role in backend (blockchain + firebase) coding, testing, deployment . Also did the integration with frontend. "
+      "Coded along with my teammates ,where I had the key role in backend (blockchain + firebase) coding, testing, deployment . Also did the integration with frontend. ",
     ],
     links: [
       {
@@ -300,8 +298,8 @@ export const PROJECTSLIST: Project[] = [
     description: [
       "Decentralized platform using POLYGON blockchain that automatically handles all fundraising for charities AND disputes. ",
       "Users can donate and get added to the Raise verification system governed by smart contracts .",
-      "Prevents scam fundraising with its power of transparency and verification system with automatic dispute handling and fund safety. "
-      ,"Hackathon winning project"
+      "Prevents scam fundraising with its power of transparency and verification system with automatic dispute handling and fund safety. ",
+      "Hackathon winning project",
     ],
     links: [
       {
@@ -314,7 +312,6 @@ export const PROJECTSLIST: Project[] = [
       },
     ],
   },
-
 ];
 
 export const SLIDESDEFY = [
@@ -337,40 +334,40 @@ export const SLIDESDEFY = [
 ];
 
 export const SLIDESPOLYGON = [
-    "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/polygon%2F1687435801177.jpeg?alt=media&token=1803428c-d2f1-47ca-a934-3163cd537498",
-    "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/polygon%2FScreenshot%202024-05-26%20002227.png?alt=media&token=896f9bb6-c957-45a2-b291-5ec4bac8362b",
-    "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/polygon%2F1687435802100.jpeg?alt=media&token=20726bc7-f62a-4fa4-ad18-51398c6b79aa",
-    "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/polygon%2FFzOqtJKaMAAT2m8.jpeg?alt=media&token=6717b772-6a8e-4c9b-afa1-99f99d8de2ec",
-    "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/polygon%2FFzOrQ88aYAEUqBd.jpeg?alt=media&token=28707ffb-2e97-497a-8467-da061f22da17",
-    "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/polygon%2FScreenshot%202024-05-26%20001936.png?alt=media&token=1e470143-6716-40ad-b1ab-68431ffb3f88"
-   , "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs3.jpeg?alt=media&token=89e0ff77-cde9-4a95-bc6b-a714daa06373",
-    "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs4.jpeg?alt=media&token=ffd6ac13-264d-4cca-9466-0caeb7e57bb5",
-    "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs2.png?alt=media&token=5f6d0099-a3a4-4c35-a02f-74527e71dda7",
-    "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs1.jpeg?alt=media&token=d88699ad-f81a-4c8f-a1e6-ebf709d9fb54",
+  "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/polygon%2F1687435801177.jpeg?alt=media&token=1803428c-d2f1-47ca-a934-3163cd537498",
+  "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/polygon%2FScreenshot%202024-05-26%20002227.png?alt=media&token=896f9bb6-c957-45a2-b291-5ec4bac8362b",
+  "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/polygon%2F1687435802100.jpeg?alt=media&token=20726bc7-f62a-4fa4-ad18-51398c6b79aa",
+  "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/polygon%2FFzOqtJKaMAAT2m8.jpeg?alt=media&token=6717b772-6a8e-4c9b-afa1-99f99d8de2ec",
+  "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/polygon%2FFzOrQ88aYAEUqBd.jpeg?alt=media&token=28707ffb-2e97-497a-8467-da061f22da17",
+  "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/polygon%2FScreenshot%202024-05-26%20001936.png?alt=media&token=1e470143-6716-40ad-b1ab-68431ffb3f88",
+  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs3.jpeg?alt=media&token=89e0ff77-cde9-4a95-bc6b-a714daa06373",
+  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs4.jpeg?alt=media&token=ffd6ac13-264d-4cca-9466-0caeb7e57bb5",
+  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs2.png?alt=media&token=5f6d0099-a3a4-4c35-a02f-74527e71dda7",
+  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs1.jpeg?alt=media&token=d88699ad-f81a-4c8f-a1e6-ebf709d9fb54",
 
-    "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs6.jpeg?alt=media&token=e93454b4-a0f4-4aab-ac01-a9f0eca9f092",
-    "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs9.jpeg?alt=media&token=565732f9-bd6a-4019-a8c5-5214754dd1cb",
-    "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs13.jpeg?alt=media&token=b6cc0dbe-2a4b-43ab-ad80-fa21928ffadc",
-    "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs7.jpeg?alt=media&token=e499f158-26f0-4d0f-9515-82aff161b578",
-    "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs8.jpeg?alt=media&token=aa010ce7-6698-4b0a-9261-54ce14035701",
-    "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs17.jpeg?alt=media&token=15d935d4-2cd4-4ab2-8a18-2b9fb4c112e4",
-    "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs14.jpeg?alt=media&token=f1792825-35c2-498d-9f4c-594c86831d70",
-    "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs11.jpeg?alt=media&token=0768fe0e-7560-4b15-b03a-a5b5f07c70d0",
-    "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs12.jpeg?alt=media&token=d63ab65e-1b2b-40c7-a77c-ee3db0bccbee",
-    "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs10.jpeg?alt=media&token=74e6d44a-e7a1-4c15-82bc-855fe667bf20",
-    "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs16.jpeg?alt=media&token=fb5ff094-7f45-488d-abd3-ec5129cd81f9",
-
+  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs6.jpeg?alt=media&token=e93454b4-a0f4-4aab-ac01-a9f0eca9f092",
+  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs9.jpeg?alt=media&token=565732f9-bd6a-4019-a8c5-5214754dd1cb",
+  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs13.jpeg?alt=media&token=b6cc0dbe-2a4b-43ab-ad80-fa21928ffadc",
+  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs7.jpeg?alt=media&token=e499f158-26f0-4d0f-9515-82aff161b578",
+  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs8.jpeg?alt=media&token=aa010ce7-6698-4b0a-9261-54ce14035701",
+  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs17.jpeg?alt=media&token=15d935d4-2cd4-4ab2-8a18-2b9fb4c112e4",
+  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs14.jpeg?alt=media&token=f1792825-35c2-498d-9f4c-594c86831d70",
+  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs11.jpeg?alt=media&token=0768fe0e-7560-4b15-b03a-a5b5f07c70d0",
+  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs12.jpeg?alt=media&token=d63ab65e-1b2b-40c7-a77c-ee3db0bccbee",
+  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs10.jpeg?alt=media&token=74e6d44a-e7a1-4c15-82bc-855fe667bf20",
+  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs16.jpeg?alt=media&token=fb5ff094-7f45-488d-abd3-ec5129cd81f9",
 ];
 
-export const SLIDESDAO = [
-    "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/DAO%2FWhatsApp%20Image%202024-05-26%20at%2000.35.26_41f5bbcc.jpg?alt=media&token=4b247bd2-2366-45b6-a393-b95b8355063c",
-    "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/DAO%2FWhatsApp%20Image%202024-05-26%20at%2000.34.53_978bf804.jpg?alt=media&token=7478763d-b2c5-49f3-add0-b03fbaa686b1",
-    "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/DAO%2FWhatsApp%20Image%202024-05-26%20at%2000.36.32_22c830eb.jpg?alt=media&token=e6ae05c6-131a-4396-8135-5d41fe058abf",
-    "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/DAO%2FScreenshot%202024-05-26%20005345.png?alt=media&token=397a44c3-d43b-4858-99c2-7fd4ebacc1d4"
-  ,  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs1.jpeg?alt=media&token=d88699ad-f81a-4c8f-a1e6-ebf709d9fb54",
-  ,"https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs16.jpeg?alt=media&token=fb5ff094-7f45-488d-abd3-ec5129cd81f9",
+export const SLIDESDAO: StrArray = [
+  "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/DAO%2FWhatsApp%20Image%202024-05-26%20at%2000.35.26_41f5bbcc.jpg?alt=media&token=4b247bd2-2366-45b6-a393-b95b8355063c",
+  "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/DAO%2FWhatsApp%20Image%202024-05-26%20at%2000.34.53_978bf804.jpg?alt=media&token=7478763d-b2c5-49f3-add0-b03fbaa686b1",
+  "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/DAO%2FWhatsApp%20Image%202024-05-26%20at%2000.36.32_22c830eb.jpg?alt=media&token=e6ae05c6-131a-4396-8135-5d41fe058abf",
+  "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/DAO%2FScreenshot%202024-05-26%20005345.png?alt=media&token=397a44c3-d43b-4858-99c2-7fd4ebacc1d4",
+  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs1.jpeg?alt=media&token=d88699ad-f81a-4c8f-a1e6-ebf709d9fb54",
+
+  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs16.jpeg?alt=media&token=fb5ff094-7f45-488d-abd3-ec5129cd81f9",
   "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/DAO%2FWhatsApp%20Image%202024-05-26%20at%2000.37.09_62cdec1c.jpg?alt=media&token=09acc43f-6686-4bf8-a8e2-30e560d23d38",
-  "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/DAO%2FWhatsApp%20Image%202024-05-26%20at%2000.38.31_7f11b3e0.jpg?alt=media&token=700c65e1-b487-4d36-9a35-ea397910a2fe"
+  "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/DAO%2FWhatsApp%20Image%202024-05-26%20at%2000.38.31_7f11b3e0.jpg?alt=media&token=700c65e1-b487-4d36-9a35-ea397910a2fe",
 ];
 
 export const SLIDESTECHSPEAK = [

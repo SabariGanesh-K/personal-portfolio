@@ -15,17 +15,11 @@ const ProjectBox = ({ project }: { project: Project }) => {
     <div className="w-screen flex flex-row justify-center mt-10 bg-transparent">
       <Card className="w-[70%] bg-black">
         <CardHeader className="flex gap-3 bg-blue-600 dark:bg-blue-500">
-          {/* <Image
-          alt="nextui logo"
-          height={40}
-          radius="sm"
-          src="https://avatars.githubusercontent.com/u/86160567?s=200&v=4"
-          width={40}
-        /> */}
+     
           <VscActivateBreakpoints color="white" size={50} />
           <div className="flex flex-col">
             <p className="text-3xl text-white">{project.title}</p>
-            <p className="text-small text-default-500 text-white">
+            <p className="text-small  text-white">
               {project.stack}
             </p>
           </div>
@@ -47,13 +41,13 @@ const ProjectBox = ({ project }: { project: Project }) => {
       
           {project.links.map((item: Link, k: number) =>
             item.src === "-" ? (
-              <div>
+              <div key={k}>
                 <Link className="cursor-not-allowed" isExternal showAnchorIcon>
                   {item.text} {item.src == "-" ? " [COMING SOON]" : ""}
                 </Link>
               </div>
             ) : (
-              <div>
+              <div key={k}>
                 <Link isExternal showAnchorIcon href={item.src}>
                   {item.text} 
                 </Link>
