@@ -1,3 +1,4 @@
+import { LUMOSBLGHREF } from "@/app/config/constants";
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
@@ -29,7 +30,7 @@ const Testimonial = () => {
         <figcaption className="flex items-center justify-center mt-6 space-x-3 rtl:space-x-reverse">
         
           <div className="flex items-center divide-x-2 rtl:divide-x-reverse divide-gray-500 dark:divide-gray-700">
-           <Link href=""><cite className="pe-3 font-medium text-gray-900 dark:text-white">
+           <Link href={LUMOSBLGHREF}><cite className="pe-3 font-medium text-gray-900 dark:text-white">
               Read Full Story in Medium Today ➡️
             </cite></Link> 
             <cite className="ps-3 text-sm text-gray-500 dark:text-gray-400">

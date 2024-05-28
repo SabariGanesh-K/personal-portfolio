@@ -9,6 +9,7 @@ import Skills from "@/modules/projects/SkillsAndProjects/Skills";
 import Testimonial from "@/modules/testomonial.tsx/Testimonial";
 import CareerProgress from "@/modules/timeline/careerProgress";
 import EpicVictories from "@/modules/victories/EpicVictories";
+import Footer from "@/shared/footer/footer";
 import Header from "@/shared/header/header";
 import Image from "next/image";
 
@@ -19,40 +20,53 @@ export default function Home() {
       <br />
       <br />
       <br />
-
+      <div id="profile"></div>
       <ProfileCard />
       <br />
       <br />
       <br />
-
+     
       <ProfileDescription />
 
       <br />
       <br />
       <br />
+      <div id="career"></div>
       <Downloadables />
+     
       <br />
+
       <br />
       <br />
 
       <CareerProgress />
+      <div id="public"></div>
       <br />
+
       <br />
       <br />
       <Testimonial />
       <br />
+     
       <br />
       <br />
       <EpicHighlights />
+      <div id="epics"></div>
+      <br />
+
       <br />
       <br />
-      <br />
+
       <EpicVictories/>
       <br/><br/><br/>
       <CommunityBuildCarousel/>
-      <br/><br/><br/> <br/><br/><br/>
+      <div id="projects">
+      <br/><br/>
+</div><br/> <br/><br/><br/>
       
       <ProjectsCatalogue/>
+      <br/><br/><br/> <div id="contact"></div><br/><br/><br/>
+      <Footer/>
     </main>
   );
 }

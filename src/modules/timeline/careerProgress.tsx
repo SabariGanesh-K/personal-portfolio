@@ -5,7 +5,7 @@ import React from "react";
 const CareerProgress = () => {
   return (
     <ol
-      id="career"
+      
       className="w-[70%] relative border-s border-gray-200 dark:border-gray-700"
     >
       {careerItems.map((item: CareerItems, k: number) => {

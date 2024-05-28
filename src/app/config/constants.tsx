@@ -9,18 +9,28 @@ export const navItems: NavItems[] = [
   },
   {
     title: "Public",
-    href: "/#profile",
-  },
-  {
-    title: "Projects",
-    href: "/#profile",
+    href: "/#public",
   },
   {
     title: "Epics",
-    href: "/#profile",
+    href: "/#epics",
+  },
+  {
+    title: "Projects",
+    href: "/#projects",
+  },
+  {
+    title: "Contact",
+    href: "/#contact",
   },
 ];
-
+export const LUMOSBLGHREF="https://medium.com/lumos-labs/lumos-developer-stories-with-sabari-ganesh-be766a113a73"
+export const INSTAGRAMHREF="https://www.instagram.com/sabari.krishna.1004/"
+export const LINKEDINHREF="https://linkedin.com/in/sabariganeshk"
+export const GITHUBHREF="https://github.com/SabariGanesh-K"
+export const TELEGRAMHREF="https://t.me/hilarious_biscuit"
+export const TWITTERHREF = "https://twitter.com/Sabari_ganesh_k"
+export const GMAILHREF="mailto:k.sabarii.ganesh@gmail.com"
 export const careerItems: CareerItems[] = [
   {
     position: "Fullstack SDE Intern",

@@ -17,7 +17,7 @@ const ProjectBox = ({ project }: { project: Project }) => {
         <CardHeader className="flex gap-3 bg-blue-600 dark:bg-blue-500">
      
           <VscActivateBreakpoints color="white" size={50} />
-          <div className="flex flex-col">
+          <div className="flex  flex-col">
             <p className="text-3xl text-white">{project.title}</p>
             <p className="text-small  text-white">
               {project.stack}
