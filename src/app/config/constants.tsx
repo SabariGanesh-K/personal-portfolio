@@ -350,22 +350,6 @@ export const SLIDESPOLYGON = [
   "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/polygon%2FFzOqtJKaMAAT2m8.jpeg?alt=media&token=6717b772-6a8e-4c9b-afa1-99f99d8de2ec",
   "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/polygon%2FFzOrQ88aYAEUqBd.jpeg?alt=media&token=28707ffb-2e97-497a-8467-da061f22da17",
   "https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/polygon%2FScreenshot%202024-05-26%20001936.png?alt=media&token=1e470143-6716-40ad-b1ab-68431ffb3f88",
-  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs3.jpeg?alt=media&token=89e0ff77-cde9-4a95-bc6b-a714daa06373",
-  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs4.jpeg?alt=media&token=ffd6ac13-264d-4cca-9466-0caeb7e57bb5",
-  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs2.png?alt=media&token=5f6d0099-a3a4-4c35-a02f-74527e71dda7",
-  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs1.jpeg?alt=media&token=d88699ad-f81a-4c8f-a1e6-ebf709d9fb54",
-
-  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs6.jpeg?alt=media&token=e93454b4-a0f4-4aab-ac01-a9f0eca9f092",
-  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs9.jpeg?alt=media&token=565732f9-bd6a-4019-a8c5-5214754dd1cb",
-  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs13.jpeg?alt=media&token=b6cc0dbe-2a4b-43ab-ad80-fa21928ffadc",
-  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs7.jpeg?alt=media&token=e499f158-26f0-4d0f-9515-82aff161b578",
-  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs8.jpeg?alt=media&token=aa010ce7-6698-4b0a-9261-54ce14035701",
-  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs17.jpeg?alt=media&token=15d935d4-2cd4-4ab2-8a18-2b9fb4c112e4",
-  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs14.jpeg?alt=media&token=f1792825-35c2-498d-9f4c-594c86831d70",
-  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs11.jpeg?alt=media&token=0768fe0e-7560-4b15-b03a-a5b5f07c70d0",
-  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs12.jpeg?alt=media&token=d63ab65e-1b2b-40c7-a77c-ee3db0bccbee",
-  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs10.jpeg?alt=media&token=74e6d44a-e7a1-4c15-82bc-855fe667bf20",
-  "https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/defy%2Fs16.jpeg?alt=media&token=fb5ff094-7f45-488d-abd3-ec5129cd81f9",
 ];
 
 export const SLIDESDAO: StrArray = [

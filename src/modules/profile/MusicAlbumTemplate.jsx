@@ -12,7 +12,7 @@ const MusicAlbumTemplate = () => {
     <Card
     isBlurred
     // className="border-none bg-slate-600 dark:bg-[#1DB954] max-w-[900px] mt-10"
-    className="border-none bg-background/60 dark:bg-default-100/50 max-w-[70%] mt-10"
+    className="border-none bg-background/60 dark:bg-default-100/50  max-w-[70%] mt-10"
     shadow="sm"
   >
     <CardBody>

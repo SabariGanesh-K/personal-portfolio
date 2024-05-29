@@ -20,6 +20,7 @@
 }
 *{
     scroll-behavior: smooth;
+    /* overflow-x:hidden */
 }
 body {
   color: rgb(var(--foreground-rgb));

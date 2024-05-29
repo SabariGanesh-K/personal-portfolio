@@ -3,11 +3,11 @@ import React from "react";
 
 const Skills = () => {
   return (
-    <dl className="w-[80%] text-gray-900 divide-y divide-gray-200 dark:text-white dark:divide-gray-700 text-center">
+    <dl className="w-[80%] text-3xl text-gray-900 divide-y divide-gray-200 dark:text-white dark:divide-gray-700 text-center">
       <div className="flex flex-row justify-center">
-      <h1 className="flex items-center text-9xl font-extrabold dark:text-white text-center">
+      <h1 className="flex items-center md:text-9xl font-extrabold dark:text-white text-center">
         BUILD
-        <span className="text-center bg-blue-100 text-blue-800 text-6xl font-semibold me-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ms-2">
+        <span className="text-center text-3xl bg-blue-100 text-blue-800 md:text-6xl font-semibold me-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ms-2">
           WITH ME
         </span>
       </h1>

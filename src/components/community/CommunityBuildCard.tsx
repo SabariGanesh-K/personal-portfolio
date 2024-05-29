@@ -10,15 +10,15 @@ const CommunityBuildCarousel = () => {
   const OPTIONS: EmblaOptionsType = { loop: true };
 
   return (
-    <div>
-      <h1 className="text-5xl text-center font-extrabold dark:text-white">
+    <div className="w-[95%] md:w-full">
+      <h1 className=" text-3xl md:text-5xl text-center font-extrabold dark:text-white">
         Conducted National Level web3 Hackathon DeFy’24
       </h1>
 
-      <h2 className="text-4xl  text-center font-bold dark:text-white">
+      <h2 className="text-2xl md:text-4xl  text-center font-bold dark:text-white">
         Recordbreaking event ever in My University
       </h2>
-      <h2 className="text-4xl   text-center font-bold dark:text-white">
+      <h2 className="text-2xl   text-center font-bold dark:text-white">
         “Web3 x Business” mission - Create web3 product with Business aspects
       </h2>
       <br/><br/>
@@ -26,8 +26,8 @@ const CommunityBuildCarousel = () => {
       <Carousel slides={SLIDESDEFY} options={OPTIONS} />
       <br/><br/>
 
-      <div className="flex flex-row justify-center">
-        <div className="w-[90%] ">
+      <div className="w-full md:w-[90%]  flex flex-row justify-center">
+        <div className="">
           <p className="mt-3 text-lg font-normal text-gray-500 lg:text-xl dark:text-gray-400">
             From joining as a community member , to organizing a National Level
             Hackathon with DAO Community VIT Chennai as a lead organizer
@@ -69,14 +69,14 @@ const CommunityBuildCarousel = () => {
         </div>
       </div>
       <br/><br/>
-      <h1 className="text-5xl  text-center  font-extrabold dark:text-white">
+      <h1 className=" text-3xl md:text-5xl text-center font-extrabold dark:text-white">
         PRESIDENT + TECH FACILITATOR{" "}
       </h1>
 
-      <h2 className="text-4xl   text-center font-bold dark:text-white">
+      <h2 className="text-2xl   text-center font-bold dark:text-white">
         DAO Community VIT Chennai
       </h2>
-      <h2 className="text-4xl  text-center  font-bold dark:text-white">
+      <h2 className="text-2xl   text-center font-bold dark:text-white">
         FLAGBEARER OF VIT CHENNAI &apos;S WEB3 FLAGBEARER OF VIT CHENNAI &apos;S WEB3
         CULTURE
       </h2>
@@ -86,7 +86,7 @@ const CommunityBuildCarousel = () => {
       <br/><br/>
 
       <div className="flex flex-row justify-center">
-        <div className="w-[70%] ">
+        <div className="md:w-[70%] ">
           <p className="mt-1 text-lg font-normal text-gray-500 lg:text-xl dark:text-gray-400">
             I managed a blockchain community as a president/overall facilitator
             at my College VIT Chennai with Hundreds of enthusiasts. Thi

@@ -2,7 +2,7 @@ import React from "react";
 
 const CareerBox = ({ item }: { item: CareerItems }) => {
   return (
-    <li className="mb-10 ms-6 ">
+    <li className="mb-10 ms-6 xs:w-screen">
       <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
         <svg
           className="w-2.5 h-2.5 text-blue-800 dark:text-blue-300"
@@ -27,7 +27,7 @@ const CareerBox = ({ item }: { item: CareerItems }) => {
         return (
           <p
             key={k}
-            className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400"
+            className="mb-4  text-base font-normal text-gray-500 dark:text-gray-400"
           >
             {item}
           </p>

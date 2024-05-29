@@ -6,7 +6,7 @@ const CareerProgress = () => {
   return (
     <ol
       
-      className="w-[70%] relative border-s border-gray-200 dark:border-gray-700"
+      className="w-full md:w-[70%] relative border-s border-gray-200 dark:border-gray-700"
     >
       {careerItems.map((item: CareerItems, k: number) => {
         return (

@@ -2,7 +2,7 @@ import React from "react";
 
 const ProfileDescription = () => {
   return (
-    <div className="flex flex-row justify-center w-[80%]">
+    <div className="flex flex-row justify-center w-full md:w-[80%]">
       <div>
         <h1 className="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
           A Dedicated{" "}
