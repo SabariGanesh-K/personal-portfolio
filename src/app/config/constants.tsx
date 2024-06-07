@@ -24,13 +24,14 @@ export const navItems: NavItems[] = [
     href: "/#contact",
   },
 ];
-export const LUMOSBLGHREF="https://medium.com/lumos-labs/lumos-developer-stories-with-sabari-ganesh-be766a113a73"
-export const INSTAGRAMHREF="https://www.instagram.com/sabari.krishna.1004/"
-export const LINKEDINHREF="https://linkedin.com/in/sabariganeshk"
-export const GITHUBHREF="https://github.com/SabariGanesh-K"
-export const TELEGRAMHREF="https://t.me/hilarious_biscuit"
-export const TWITTERHREF = "https://twitter.com/Sabari_ganesh_k"
-export const GMAILHREF="mailto:k.sabarii.ganesh@gmail.com"
+export const LUMOSBLGHREF =
+  "https://medium.com/lumos-labs/lumos-developer-stories-with-sabari-ganesh-be766a113a73";
+export const INSTAGRAMHREF = "https://www.instagram.com/sabari.krishna.1004/";
+export const LINKEDINHREF = "https://linkedin.com/in/sabariganeshk";
+export const GITHUBHREF = "https://github.com/SabariGanesh-K";
+export const TELEGRAMHREF = "https://t.me/hilarious_biscuit";
+export const TWITTERHREF = "https://twitter.com/Sabari_ganesh_k";
+export const GMAILHREF = "mailto:k.sabarii.ganesh@gmail.com";
 export const careerItems: CareerItems[] = [
   {
     position: "Fullstack SDE Intern",
@@ -82,8 +83,10 @@ export const careerItems: CareerItems[] = [
   },
 ];
 
-export const resumeLink: string = "https://drive.google.com/drive/folders/1gr18j2RM0pbkq0dYRasPVKxfhrzAuKVF?usp=sharing";
-export const beyondresumeLink: string = "https://drive.google.com/drive/folders/1aHhXCBLkixtnjM8--B8Kwl7N3npKOMJk?usp=sharing";
+export const resumeLink: string =
+  "https://drive.google.com/drive/folders/1gr18j2RM0pbkq0dYRasPVKxfhrzAuKVF?usp=sharing";
+export const beyondresumeLink: string =
+  "https://drive.google.com/drive/folders/1aHhXCBLkixtnjM8--B8Kwl7N3npKOMJk?usp=sharing";
 export const skillSets: SkillSet[] = [
   {
     genre: "Backend and Databases",
@@ -246,6 +249,22 @@ export const PROJECTSLIST: Project[] = [
     links: [
       {
         src: "https://github.com/SabariGanesh-K/Event-Management",
+        text: "View on Github",
+      },
+    ],
+  },
+  {
+    title: "Flashswap Arbitrage Simulation in Liquidity Pools ",
+    stack:
+      "Uniswap V3 , Pool Management , Solidity , Hardhat ,TVL, Tickspaces , Flashswaps , NFT Token Position ",
+    description: [
+      "Perform a Flashloan in a pool liquidity , and use the funds to make swaps on other pools as Arbitrage to gain profit.",
+      "Uses Uniswap v3 contracts to simulate the same using Flashswap algorithm keeping in mind the profit fees , combining the power of Swap routers and NFT token positions , and Tickspaces with efficient TVL",
+      "⚠️ Try at Mainnet with your own risk ",
+    ],
+    links: [
+      {
+        src: "https://github.com/SabariGanesh-K/FlashSwap-Arbitrage",
         text: "View on Github",
       },
     ],
