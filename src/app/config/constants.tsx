@@ -82,8 +82,8 @@ export const careerItems: CareerItems[] = [
   },
 ];
 
-export const resumeLink: string = "#";
-export const beyondresumeLink: string = "#";
+export const resumeLink: string = "https://drive.google.com/drive/folders/1gr18j2RM0pbkq0dYRasPVKxfhrzAuKVF?usp=sharing";
+export const beyondresumeLink: string = "https://drive.google.com/drive/folders/1aHhXCBLkixtnjM8--B8Kwl7N3npKOMJk?usp=sharing";
 export const skillSets: SkillSet[] = [
   {
     genre: "Backend and Databases",
@@ -124,7 +124,7 @@ export const VictoryItems: Victory[] = [
     entity:
       "on IOT - Real Time Water Monitoring and Sustainable Energy Generation System",
     description:
-      "    Won the Asia's largest ethereum hackathon with my team ETHERNALS.Coded a project Revolutionizing grassroots payments: Decentralized, transparent, and empowering for workers and communities. Know more about the project here",
+      "  Researched with my Faculty ,teammates and invented a Real time water transport system that monitors quality and also performs a sustainable energe generation efficiently .Technology was Patented  with IDF .",
     href: "#",
   },
   {
