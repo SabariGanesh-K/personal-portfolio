@@ -90,16 +90,16 @@ export const beyondresumeLink: string =
 export const skillSets: SkillSet[] = [
   {
     genre: "Backend and Databases",
-    stack: "AWS,Firebase, MongoDB,NoSQL, Node.js, PostgreSQL, MySQL,AstraDB",
+    stack: "AWS,Firebase, MongoDB,NoSQL, Node [js/ts], PostgreSQL, MySQL,AstraDB ,DB Migrations ,Go Fiber , gRPC , Websockets ",
   },
   {
     genre: "Frontend and UI",
     stack:
-      "React, Next , Angular (Typescript and Javascript), Styling and UI (Tailwind CSS, Chakra UI, MUI, etc.), State Management (Redux, Context, etc.), React Native, Expo",
+      "React[js/ts], Next[js/ts] , Angular (Typescript and Javascript), Styling and UI (Tailwind CSS, Chakra UI, MUI, etc.), State Management (Redux, Context, etc.), React Native, Expo",
   },
   {
     genre: "DevOps and Cloud",
-    stack: "AWS cloud .Docker, Github Actions",
+    stack: "AWS cloud ,Docker, Github Actions ,MakeFile Automations , Jenkins , Terraform IAAC  ",
   },
   {
     genre: "Artificial Intelligence",
@@ -108,7 +108,7 @@ export const skillSets: SkillSet[] = [
   },
   {
     genre: "Languages:",
-    stack: "JavaScript, TypeScript,GoLang, Solidity, C++, Java, Python",
+    stack: "JavaScript, TypeScript,GoLang, Solidity, C++, Java, Python,C",
   },
   {
     genre: "Blockchain:",
@@ -117,7 +117,7 @@ export const skillSets: SkillSet[] = [
   },
   {
     genre: "Hardware:",
-    stack: "Arduino UNO , Cyber physical systemS ,ESP 32 , Raspberry pi",
+    stack: "Arduino UNO ,IOT,C, Cyber physical systemS ,ESP 32 , Raspberry pi",
   },
 ];
 
