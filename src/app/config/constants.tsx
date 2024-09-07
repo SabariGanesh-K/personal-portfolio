@@ -84,31 +84,35 @@ export const careerItems: CareerItems[] = [
 ];
 
 export const resumeLink: string =
-  "https://drive.google.com/drive/folders/1gr18j2RM0pbkq0dYRasPVKxfhrzAuKVF?usp=sharing";
+  "https://drive.google.com/file/d/1qyJ5YV0leOEsMf9BWWSy_hgXzSWobclH/view?usp=sharing";
 export const beyondresumeLink: string =
   "https://drive.google.com/drive/folders/1aHhXCBLkixtnjM8--B8Kwl7N3npKOMJk?usp=sharing";
 export const skillSets: SkillSet[] = [
   {
     genre: "Backend and Databases",
-    stack: "AWS,Firebase, MongoDB,NoSQL, Node [js/ts], PostgreSQL, MySQL,AstraDB ,DB Migrations ,Go Fiber , gRPC , Websockets ",
+    stack: "[ Typescript/Javascript/GO ] AWS ,MongoDB,NoSQL,PostgreSQL, Firebase , MySQL Node JS/TS,Express,Go Fiber ,Gin,Migrate , Websockets ,Protobuf, Redis Queues , Microservices , Relational databases , Linux , DB Mock , gRPC , Distributed systems , Test Driven Development  ",
   },
   {
     genre: "Frontend and UI",
     stack:
-      "React[js/ts], Next[js/ts] , Angular (Typescript and Javascript), Styling and UI (Tailwind CSS, Chakra UI, MUI, etc.), State Management (Redux, Context, etc.), React Native, Expo",
+      "React[js/ts], Next[js/ts] , Angular (Typescript and Javascript), Styling and UI (Tailwind CSS, Chakra UI, MUI, etc.), Component architecture , State Management (Redux, Context, etc.), React Native, Expo",
   },
   {
     genre: "DevOps and Cloud",
-    stack: "AWS cloud ,Docker, Github Actions ,MakeFile Automations , Jenkins , Terraform IAAC  ",
+    stack: "AWS cloud , Docker , Github Actions , Kubernetes , Jenkins,Pipelines,IAAC with Terraform , Redis  ",
   },
   {
     genre: "Artificial Intelligence",
     stack:
-      "Working on fundamental ML and DL algorithms (Regression, Classification, etc.), Recommendation systems, and Sentimental Analysis",
+      "LLM , Langchains , Working on fundamental ML and DL algorithms (Regression, Classification, etc.), Recommendation systems, and Sentimental Analysis",
   },
   {
-    genre: "Languages:",
+    genre: "Languages",
     stack: "JavaScript, TypeScript,GoLang, Solidity, C++, Java, Python,C",
+  },
+  {
+    genre: "Quant Finance",
+    stack: "Python , Numpy , Fundamental Algorithms , Stocks , Commodities,Derivatives,Markowitz Modern Portfolio Diversification analysios ,Capital Asset PM,Stochastic Randomness Calculus,Weiner process,Black–Scholes mode ,etc [Fundamental theories + Moderate implementation]",
   },
   {
     genre: "Blockchain:",

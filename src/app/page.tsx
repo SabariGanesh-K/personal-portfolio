@@ -16,6 +16,9 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-10">
+           <head>
+  <link rel="icon" href="fire.svg" />
+</head>
       <Header />
       <br />
       <br />
