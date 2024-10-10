@@ -9,7 +9,7 @@ const ProfileDescription = () => {
           <span className="text-blue-600 dark:text-blue-500">
             Full Stack Software Developer{" "}
           </span>{" "}
-          Specializing in Cloud , Devops and Finance [Crypto , Quant ].
+          {/* Specializing in Cloud , Devops and Finance [Crypto , Quant ]. */}
         </h1>
         <p className="text-lg font-normal text-gray-500 lg:text-xl dark:text-gray-400">
           Currently immersed in my B.Tech journey at VIT Chennai, I anticipate
