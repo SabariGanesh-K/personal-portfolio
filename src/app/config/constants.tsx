@@ -39,10 +39,10 @@ export const careerItems: CareerItems[] = [
     company: "Nethermind,London,United Kingdom",
     description: [
       "Worked with a Internationally distributed team remotely. Involved and Contributed to \n Multiple Projects .",
-      "SEDGE :- a one-click node setup tool for PoS network/chain validators and nodes written entirely in the Go programming language. Sedge takes care of the entire onpremise full node setup based on the chosen client, using generated docker-compose scripts based on the desired configuration. Worked extensively in Go Lang involving Cobra packages configuring the terminal commandlines and controls as per requirements and features for a smooth setup of sedge and nodes.",
-      " ZkSYNC - Remix Plugin :- Worked with the ZkSYNC - Nethermind team on the Remix plugin enabling developers to effortlessly deploy and interact with zkSync contracts. Worked on Vite + Typescript and Rust for API. Built with Rocket , a framework for Rust",
-      "PAPRIKA:- custom implementation of the Patricia tree used in Ethereum. It aims at replacing the underlying storage as a solution on a higher level of abstraction. PagedDb component utilizes memory-mapped files for efficient storage, employing Copy on Write for concurrency management, inspired by LMBD. ( Uses c# with .NET primarily). Contributed in the pagedDB part for optimization involving garbage collections etc ",
-      "Voyager:- Was part of the Starknet block explorer Voyager team. Worked with Tech stacks Involving Vite , Typescript with PostgreSQL backends,Grafana for Monitoring",
+      "SEDGE :- a one-click node setup tool for PoS network/chain validators and nodes written entirely in the Go programming language. Sedge takes care of the entire onpremise full node setup based on the chosen client, using generated docker-compose scripts based on the desired configuration.Worked extensively in Go Lang involving Cobra packages configuring the terminal commandlines and controls as per requirements and features for a smooth setup of sedge and nodes. (Go Lang,Commandlines,Cobra)",
+      " ZkSYNC - Remix Plugin :- Worked with the ZkSYNC - Nethermind team on the Remix plugin enabling developers to effortlessly deploy and interact with zkSync contracts. Worked on Vite + Typescript and Rust for API. Built with Rocket , a framework for Rust (Vite, Typescript, Rust, Rocket)",
+      "PAPRIKA:- custom implementation of the Patricia tree used in Ethereum. It aims at replacing the underlying storage as a solution on a higher level of abstraction. PagedDb component utilizes memory-mapped files for efficient storage, employing Copy on Write for concurrency management, inspired by LMBD. Performed the optimization of page by garbage collection strategy ",
+      "Voyager:- Was part of the block explorer Voyager team. Worked with Tech stacks Involving Vite , Typescript with PostgreSQL backends ",
     ],
     href: "#",
   },
@@ -51,8 +51,10 @@ export const careerItems: CareerItems[] = [
     duration: "September 2023 - January 2024",
     company: "Hashstack Finance,Bengaluru,India",
     description: [
+      "worked as a SDE Intern at Hashstack Finance where I was one of the 2 core frontend developers working on multiple projects including the main Application . I also had the opportunity to join at the right time when a major migration upgrade took place and the mainnet project was launched. I was able to quickly grasp the speed and delivery optimization needed to adapt and adjust with the speed of product launch. Moreover I worked closely with the CEO and senior developers which enabled me in understanding the business aspects before shipping a product . ",
+
       "Contributed to Hashstack's mission of creating trustless financial products for underserved populations worldwide.",
-      "Led software development of Open protocol, enabling secure under-collateralized asset token loans  in starknet with high-quality UI and APIs.",
+      "Led software development of Open protocol, enabling secure under-collateralized asset token loans   with high-quality UI and APIs.",
       "Worked with Next with typescript, Next APIs and modern webdev = tech. Also worked in Devops part involving Github Actions , AWS , etc.",
       "Ensuring responsive design for diverse devices also working with offchain involving AWS and blockchain endpoints+Oracles for integration and permission management with deployment",
       "Maintained clean, reusable code following design patterns with comprehensive tests.",
@@ -60,46 +62,47 @@ export const careerItems: CareerItems[] = [
     href: "#",
   },
   {
-    position: "Core FullStack Developert",
-    duration: "January  2023 - December 2024",
+    position: "Core FullStack Developer",
+    duration: "January  2023 - December 2023",
     company: "Golddust Finance",
     description: [
-      "Leveraging Digital Assets and Crypto Investments involving Arbitrages , Yield Farming using the power of AI",
-      "Used Next with TYPESCRIPT and Solidity with tokenomics and plannings with analysis on trade profits including protocols like Uniswap  ,sushiswap. Algorithmic strategizing of flashswaps between liquidity pools",
-      "Worked with founder who have already built a web3 startup with 1 Million funding in the industry",
+      "Worked with Golddust Finance , founded by my college senior who already had a company of 1 million funding. ",
+      "I was part of the team working with founders and core team in building the infrastructure and algorithm for quant crypto fund sector with Double phase hedging model .",
+      "Also built the web app for price tracking and staking with technologies such as Next , Typescript , TailwindCSS , ChakraUI , Solidity , Hardhat , Foundry ,Uniswap AMMs and protocol , Sushiswap protocol",
     ],
     href: "#",
   },
   {
     position: "Backend development and infrastructure management Intern",
-    duration: "April  2023 - June 2024",
+    duration: "April  2023 - June 2023",
     company: "EDMYN",
     description: [
-      "Revolutionized the textbook experience by working with leading National level academic author in the field of Computer Science Mrs.Sumita Arora and CTO Kushagra Arora.",
-      "Worked on Scalable, real-time database architecture and Firebase backend implementation .Cloud Functions to automate workflows",
-      "Early stage startup experience with Founding team",
+      "I got an opportunity to work with Mrs. Sumita Arora (A national level author in the field of Computer Science . Students around India use her book for Computer science Public board examination).It was one of the best moments when she herself contacted me on LinkedIn . ",
+      "worked at her edtech startup EDMYN as the first hire  alongside with the CTO .",
+      "Worked on Scalable, real-time database architecture and Firebase backend implementation using cloud Functions to automate workflows",
+      "Had a perfect early stage startup experience with Founding team",
     ],
-    href: "#",
+    href: "https://edmyn.com",
   },
 ];
 
 export const resumeLink: string =
-  "https://drive.google.com/file/d/1T2B2QMh_2vlJ7V_0ftqApaanFqcRbq1d/view";
+  "https://drive.google.com/file/d/1XAA2h6dI__WGq4IxHk4b1-IuZmgmUGg0/view?usp=sharing";
 export const beyondresumeLink: string =
   "https://drive.google.com/drive/folders/1aHhXCBLkixtnjM8--B8Kwl7N3npKOMJk?usp=sharing";
 export const skillSets: SkillSet[] = [
   {
     genre: "Backend and Databases",
-    stack: "[ Typescript/Javascript/GO ] AWS ,MongoDB,NoSQL,PostgreSQL, Firebase , MySQL Node JS/TS,Express,Go Fiber ,Gin,Migrate , Websockets ,Protobuf, Redis Queues , Microservices , Relational databases , Linux , DB Mock , gRPC , Distributed systems , Test Driven Development  ",
+    stack: "[ Typescript/Javascript/GO ] AWS ,MongoDB,NoSQL,PostgreSQL, Firebase , MySQL Node JS/TS,Express,Go Fiber ,Go Gin, DB Migrations , DB Mocks , Websockets ,Protobuf, Redis Queues , Microservices , Relational databases , Linux , DB Mock , gRPC , Distributed systems , Test Driven Development  ",
   },
   {
     genre: "Frontend and UI",
     stack:
-      "React[js/ts], Next[js/ts] , Angular (Typescript and Javascript), Styling and UI (Tailwind CSS, Chakra UI, MUI, etc.), Component architecture , State Management (Redux, Context, etc.), React Native, Expo",
+      "React[js/ts], Next[js/ts] , Angular (Typescript and Javascript), Styling and UI (Tailwind CSS, Chakra UI, MUI, etc.), Component architecture , State Management (Redux, Context, etc.), Caching , Server Side Rendering , React Native, Expo",
   },
   {
     genre: "DevOps and Cloud",
-    stack: "AWS cloud , Docker , Github Actions , Kubernetes , Jenkins,Pipelines, Redis  ",
+    stack: "AWS cloud , Docker , Github Actions and workflows , Kubernetes , Jenkins , Pipelines, Redis  ",
   },
   {
     genre: "Artificial Intelligence",
@@ -108,7 +111,7 @@ export const skillSets: SkillSet[] = [
   },
   {
     genre: "Languages",
-    stack: "JavaScript, TypeScript,GoLang, Solidity, C++, Java, Python,C",
+    stack: "JavaScript, TypeScript , GoLang , Solidity , C++ , Java , Python,C",
   },
   {
     genre: "Quant Finance",
@@ -127,7 +130,7 @@ export const skillSets: SkillSet[] = [
 
 export const VictoryItems: Victory[] = [
   {
-    status: " 1x Patent",
+    status: " 1x IDF",
     entity:
       "on IOT - Real Time Water Monitoring and Sustainable Energy Generation System",
     description:
@@ -143,7 +146,7 @@ export const VictoryItems: Victory[] = [
   },
   {
     status: "Winner",
-    entity: "@BUIDL FOR WEB3 HACKATHON BY LUMOS METAVERSE",
+    entity: "@BUIDL  HACKATHON BY LUMOS METAVERSE",
     description:
       "Won a international hackathon where we coded a Decentralized fundraising app with smart on-chain dispute handler that allow people to raise funds for noble causes,investments. Know more about the project here",
     href: "#",
@@ -159,7 +162,7 @@ export const VictoryItems: Victory[] = [
     status: "Grad",
     entity: "@Buildspace Nights & Weekends Season 3",
     description:
-      "We built BeatSpire,  a unique marketplace for music artists which enables fans to own a piece of their music as NFTs .In this 6 week long program we surpassed all challenges , built , deployed and scaled it from the scratch of idea",
+      "We built BeatSpire,  a unique marketplace for music artists which enables fans to own a piece of their music as digital art .In this 6 week long program we surpassed all challenges , built , deployed and scaled it from the scratch of idea",
     href: "#",
   },
 ];
@@ -229,10 +232,10 @@ export const PROJECTSLIST: Project[] = [
     ],
   },
   {
-    title: "Decentralized Dispute handler with VRF",
+    title: "Dispute handler with VRF",
     stack: "Chainlink , VRFs , Solidity , Hardhat , Javascript ",
     description: [
-      "A decentralized solutions for disputes that arises within communities , especially DAOs. This solution uses the technology of VRF v2 . ",
+      "A  solutions for disputes that arises within communities , especially DAOs. This solution uses the technology of VRF v2 . ",
       "EVM based Chainlink consumer integrated with dispute handler equipped with 51% attack prevention ",
       "Inbuilt WEBrtc videomeeting in progress.",
     ],
@@ -305,11 +308,11 @@ export const PROJECTSLIST: Project[] = [
     ],
   },
   {
-    title: "BEATSPIRE - NFT marketplace for Music artists",
+    title: "BEATSPIRE -  marketplace for Music artists",
     stack:
       "ReactJS ,Firebase Firestore,Polygon blockchain,Solidity smart contracts,Hardhat,EthersJS, Tailwindcss,styled components ",
     description: [
-      "Built a unique marketplace for music artist which enables fans to own a piece of their music as a NFT.",
+      "Built a unique marketplace for music artist which enables fans to own a piece of their music as a Digital asset.",
       "Project got accepted at Buildspace Nights & Weekends season 3 . We graduated as well ",
       "Coded along with my teammates ,where I had the key role in backend (blockchain + firebase) coding, testing, deployment . Also did the integration with frontend. ",
     ],
@@ -325,11 +328,11 @@ export const PROJECTSLIST: Project[] = [
     ],
   },
   {
-    title: "Fundraising Dapp with Dispute Handling - Prevent Charity scams",
+    title: "Fundraising App with Dispute Handling - Prevent Charity scams",
     stack:
       "ReactJS ,Firebase Firestore,Polygon blockchain,Solidity smart contracts,Hardhat,EthersJS, Tailwindcss,styled components ",
     description: [
-      "Decentralized platform using POLYGON blockchain that automatically handles all fundraising for charities AND disputes. ",
+      " platform using POLYGON blockchain that automatically handles all fundraising for charities AND disputes. ",
       "Users can donate and get added to the Raise verification system governed by smart contracts .",
       "Prevents scam fundraising with its power of transparency and verification system with automatic dispute handling and fund safety. ",
       "Hackathon winning project",

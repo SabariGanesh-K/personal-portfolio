@@ -23,7 +23,7 @@ const MusicAlbumTemplate = () => {
             className="object-cover"
             height={200}
             shadow="md"
-            src="https://firebasestorage.googleapis.com/v0/b/data-analysis-63b5d.appspot.com/o/profile_dp.jpg?alt=media&token=30441e49-7934-4440-a363-c87ef5c9219f"
+            src="https://firebasestorage.googleapis.com/v0/b/personal-website-cc143.appspot.com/o/B612_20241011_182211_278.jpg?alt=media&token=7f8c8632-881a-4585-8996-e93927758907"
             width="100%"
           />
         </div>
