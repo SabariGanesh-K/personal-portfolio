@@ -87,7 +87,7 @@ export const careerItems: CareerItems[] = [
 ];
 
 export const resumeLink: string =
-  "https://drive.google.com/file/d/1XAA2h6dI__WGq4IxHk4b1-IuZmgmUGg0/view?usp=sharing";
+  "https://drive.google.com/file/d/1eQkqebtBvTo5J-CVF8R-9XGC7ueH_N5r/view?usp=sharing";
 export const beyondresumeLink: string =
   "https://drive.google.com/drive/folders/1aHhXCBLkixtnjM8--B8Kwl7N3npKOMJk?usp=sharing";
 export const skillSets: SkillSet[] = [
@@ -102,7 +102,7 @@ export const skillSets: SkillSet[] = [
   },
   {
     genre: "DevOps and Cloud",
-    stack: "AWS cloud , Docker , Github Actions and workflows , Kubernetes , Jenkins , Pipelines, Redis  ",
+    stack: "AWS cloud , Docker , Github Actions and workflows  , Jenkins , Pipelines, Redis  ",
   },
   {
     genre: "Artificial Intelligence",
@@ -138,6 +138,14 @@ export const VictoryItems: Victory[] = [
     href: "#",
   },
   {
+    status: " 1x Patent Submission ",
+    entity:
+      "on Smart contract based Immutable Autonomous payment system enabling smooth EV Toll payments ",
+    description:
+      "  Researched with my Faculty ,teammates and invented a system methodology to allow Electric Vehicle to Inbteract with Toll verifiers and perform transaction autonomously using smart contracts with added security fraud prevention , cryptocurrencies and Public Key infrastructures [PKI] for Certificate verifications and authorization. Paves way for a fully end to end autonomous fraud free toll handler between EV and verifier agent that does not require any middleman / regulationary disturbance.",
+    href: "#",
+  },
+  {
     status: " Winner",
     entity: "@ ETHGlobal ETHIndia ETHForAll",
     description:
@@ -169,29 +177,17 @@ export const VictoryItems: Victory[] = [
 
 export const PROJECTSLIST: Project[] = [
   {
-    title: "ZxDAO zk-enforced Anonymity & AI-Assured Quorum",
+    title: "ZKpan - Zero knowledge snark based Government doc ID verification with Data privacy",
     stack:
-      "PostgreSQL,Next,TailwindCSS,Ethereum Blockchain,Solidity smart contract,hardhat",
+      "Zero knowledge Cryptography , Circom ,RSA Cryptography , Snark JS , Data Privacy , Next ",
     description: [
-      "A groundbreaking solution to the critical challenges hindering optimal DAO functionality, notably the anonymity gap and quorum deficiency.",
-      "Leveraging sentiment analysis and advanced cryptographic techniques, zXdao ensures continuous and representative participation while safeguarding user privacy. enhances participation by addressing anonymity concerns but also strengthens decision-making processes by mitigating the risk of proposals failing to achieve quorum.",
+      "Application to identify and safeguard the presence of government issued personally identifiable information (PII) embedded in documents using Zero knowledge cryptography and circom circuits.",
+      "Ensure data privacy and scalabaility while sharing PII of government ID datas encrypted and verifiable by generating relevant proofs .",
     ],
     links: [
       {
         src: "#",
         text: "View on Github",
-      },
-      {
-        src: "#",
-        text: "Polgon ZkEVM smart contract [0xE743B91C9625e4f7Cf71A213636DAC33b5383dD6]",
-      },
-      {
-        src: "#",
-        text: "Scroll smart contract [0x92A9cb626a79f22eEF66856A4FFF9737Ed2C8eD2]",
-      },
-      {
-        src: "#",
-        text: "Base smart contract [0x6128A6Feb93ca2D0DD4a7D3A4f3881903e932af9]",
       },
     ],
   },
@@ -228,6 +224,33 @@ export const PROJECTSLIST: Project[] = [
       {
         src: "-",
         text: "View on Github",
+      },
+    ],
+  },
+  {
+    title: "ZxDAO zk-enforced Anonymity & AI-Assured Quorum",
+    stack:
+      "PostgreSQL,Next,TailwindCSS,Ethereum Blockchain,Solidity smart contract,hardhat",
+    description: [
+      "A groundbreaking solution to the critical challenges hindering optimal DAO functionality, notably the anonymity gap and quorum deficiency.",
+      "Leveraging sentiment analysis and advanced cryptographic techniques, zXdao ensures continuous and representative participation while safeguarding user privacy. enhances participation by addressing anonymity concerns but also strengthens decision-making processes by mitigating the risk of proposals failing to achieve quorum.",
+    ],
+    links: [
+      {
+        src: "#",
+        text: "View on Github",
+      },
+      {
+        src: "#",
+        text: "Polgon ZkEVM smart contract [0xE743B91C9625e4f7Cf71A213636DAC33b5383dD6]",
+      },
+      {
+        src: "#",
+        text: "Scroll smart contract [0x92A9cb626a79f22eEF66856A4FFF9737Ed2C8eD2]",
+      },
+      {
+        src: "#",
+        text: "Base smart contract [0x6128A6Feb93ca2D0DD4a7D3A4f3881903e932af9]",
       },
     ],
   },
